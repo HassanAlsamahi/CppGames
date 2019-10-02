@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570017181 source:/mnt/hassan-work/Programming Projects/C++/TicTacToe/main.cpp
+	<iostream>
+	"mainClasses.cpp"
+
+1570019120 /mnt/hassan-work/Programming Projects/C++/TicTacToe/mainClasses.cpp
+
